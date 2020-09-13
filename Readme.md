@@ -1,0 +1,3 @@
+Kontenery Dockera stały się bardzo popularne. Bardzo ułatwiają tworzenie i deployment aplikacji. Szybko możemy zbudować kontener wraz z wszystkimi zależnościami projektu i zdeployować go na środowisku testowym/produkcyjnym lub wysłać do innych zespołów, które korzystają z nasze aplikacji.
+
+Jak zbudować prosty kontener z aplikacją w Javie pokazuję w poście na blogu pod adresem: [https://blog.mloza.pl/docker-spring-boot-zamykamy-aplikacje-w-kontenerze-dockerowym/](https://blog.mloza.pl/docker-spring-boot-zamykamy-aplikacje-w-kontenerze-dockerowym/)
